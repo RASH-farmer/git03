@@ -1,6 +1,6 @@
 <template>
   <div>
-    axios
+    <!-- axios -->
     <p>获取所有图书信息</p>
     <button @click="getAllFn">获取</button>
     <div class="box2">
@@ -20,7 +20,6 @@
 </template>
 
 <script>
-// import axios from "axios";
 export default {
   name: "Day07Axios",
 
